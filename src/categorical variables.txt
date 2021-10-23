@@ -1,0 +1,11 @@
+categorical varibales:
+- Nominal variables: males, females
+- order: low, medium, high
+- binary
+- time
+
+representations:
+- one hot encoding : 0001 0010 0100 1000
+- label encoding : 0 1 2 3
+
+
